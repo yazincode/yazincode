@@ -1,4 +1,7 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi! My name is Yasmin and I'm a Programming student!</h2>
+
+- 2004 | Systems Analysis and Development (1/5) - Senac
+- São Paulo, SP
 
 ###
 
