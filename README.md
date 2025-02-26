@@ -2,6 +2,7 @@
 
 - 2004 | Systems Analysis and Development (1/5) - Senac
 - São Paulo, SP
+- Programa Transforme-se Serasa Experian | Systems Programmer
 
 ###
 
