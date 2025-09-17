@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Yasmin and I'm a Programming student!</h2>
+<h2 align="left">Olá! Meu nome é Yasmin!!</h2>
 
 - Estudante de Análise e Desenvolvimento de Sistemas no SENAC  
 - Em busca da minha primeira oportunidade na área de tecnologia 💼
@@ -38,10 +38,7 @@
   <a href="https://www.linkedin.com/in/ydantas/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://w.app/yasmindantas" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-  <a href="mailto:yasmindantas.dev@gmail.com" target="_blank">
+  <a href="mailto:yasmindantasbusiness@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=E-mail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email logo"  />
   </a>
 </div>
