@@ -23,10 +23,10 @@
     <td width="60%">
       <p>
         Olá! Me chamo <b>Yasmin</b>, sou estagiária de DevOps e estudante da área de TI. 
-        Atualmente estou focado em aprender sobre desenvolvimento, cloud e infraestrutura.
+        Atualmente estou focada em aprender sobre desenvolvimento, cloud e infraestrutura.
       </p>
       <ul>
-        <li>🎓 Estudando de ADS no Senac</b></li>
+        <li>🎓 Estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Senac</b></li>
         <li>💻 Atuando como <b>Estagiária de DevOps</b></li>
       </ul>
     </td>
