@@ -43,10 +43,6 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=black" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=black" alt="JS">
-  <img src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=black" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=black" alt="CSS3">
-    
   <img src="https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=black" alt="NodeJS">
   <img src="https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=black" alt="Git">
   <img src="https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=black" alt="MySQL">
